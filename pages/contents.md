@@ -1,6 +1,8 @@
-- This [[Knowledge Garden]] is powered by [[Logseq]] using [[logseq dev theme]]
-- Published automatically using  [[Logseq Publish GitHub Action]]
-## Shortcuts
+- 本页面由 [[Logseq]] 结合 [[Logseq Publish GitHub Action]] 生成，由 [[GitHub]] 托管。
+-
+-
+-
+- ## 链接
 	- [[关于我]]
 	- [[Blog Posts]]
 	- [[journals]]

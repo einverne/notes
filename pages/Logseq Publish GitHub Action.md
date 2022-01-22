@@ -1,20 +1,23 @@
 Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 
-- Logseq Publish GitHub Action 是一个用来发布 Logseq 网页版的工具。
-- ## Some backgrounds of implementing the GitHub Action
+- Logseq Publish GitHub Action 是 [pengx17](https://github.com/pengx17) 制作的、一个用来发布 Logseq 网页版的工具。
+- ## GitHub Action 背景知识
+	- 如果使用 GitHub 仓库来同步 Logseq 仓库，会是如下结构
+	- ```
+	  ├── assets
+	  ├── draws
+	  ├── journals
+	  ├── logseq
+	  └── pages
+	  ```
 	- There are some good public knowledge gardens that are powered by Logseq already that you can find on the Web. To list a few:
 		- https://zhanghanduo.com/
 		- https://note.xuanwo.io/
 		- [Logseq's official document](https://logseq.github.io/)
 		  id:: 61d5b000-04ce-4725-8f39-3381afaf4ee7
 	- Imagine a normal user who uses GitHub Repo to sync his Logseq graph and use **GitHub Pages** to host it.
-		- the git repo's folder may structure like this. e.g., https://github.com/pengx17/knowledge-garden
+		-
 		- ```
-		  ├── assets
-		  ├── draws
-		  ├── logseq
-		  ├── pages
-		  └── www
 		  ```
 		  			- `logseq`/`asset`/`pages` etc contains the normal graph files
 		  			- `www` contains the public assets of the page, which is picked up by GitHub Pages
@@ -128,5 +131,10 @@ Repo:: [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish)
 - [[Mon, 2022/01/10]]
 	- Contributor [[Xuanwo]] and reported some publish issues
 	- LATER Should have a better way to determine the timing when publish is finished
+	  :LOGBOOK:
+	  CLOCK: [2022-01-22 Sat 13:35:35]--[2022-01-22 Sat 13:35:36] =>  00:00:01
+	  :END:
+-
+-
 -
 -
