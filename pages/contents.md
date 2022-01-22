@@ -1,6 +1,6 @@
+public:: true
+
 - 本页面由 [[Logseq]] 结合 [[Logseq Publish GitHub Action]] 生成，由 [[GitHub]] 托管。
--
--
 -
 - ## 链接
 	- [[关于我]]
