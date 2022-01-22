@@ -1,18 +1,51 @@
-[{:block/name "01",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
+[{:block/name "202008161501-如何阅读一本书笔记",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "202008250921-知识连接是对抗遗忘的一种方式",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "202008261318-知识的的组成",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "202008262304-goldendict查长句",
+  :block/created-at 1642835069527,
+  :block/updated-at 1642835157993}
+ {:block/name "202008272214-什么是para",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "202008281803-创造新知识的三个层次",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "202009030930-数据备份方案",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "202009031345-信息的密度",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "202009052137-日本相关的书籍",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "202009231240-牛津通识读本现代日本",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "[ ]",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "a",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "acronym",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "amazon codeguru",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
  {:block/name "application footprint",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
- {:block/name "assemblyscript",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
  {:block/name "b",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
@@ -22,12 +55,12 @@
  {:block/name "blogpost",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
- {:block/name "book/how to take dummy notes",
-  :block/created-at 1642834296985,
-  :block/updated-at 1642834296985}
  {:block/name "c",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "canceled",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
  {:block/name "card",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
@@ -40,6 +73,9 @@
  {:block/name "codex",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
+ {:block/name "components.ai",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "components.ai/theme",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
@@ -49,6 +85,9 @@
  {:block/name "contributions",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "cool tech",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "cypress",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
@@ -61,24 +100,21 @@
  {:block/name "design",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
- {:block/name "diff",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
+ {:block/name "dictionary",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "doing",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
  {:block/name "done",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
- {:block/name "draws/2022-01-20-20-26-54.excalidraw",
-  :block/created-at 1642834296985,
-  :block/updated-at 1642834296985}
- {:block/name "draws/2022-01-20-20-30-34.excalidraw",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
  {:block/name "favorites",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
+ {:block/name "frontend brown bag",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "genshin (font)",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
@@ -100,6 +136,9 @@
  {:block/name "github copilot - the good, bad and evil",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
+ {:block/name "goldendict",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
  {:block/name "gpt",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
@@ -112,36 +151,42 @@
  {:block/name "hello world",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
+ {:block/name "history",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "hmr",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
  {:block/name "hot module reload",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
- {:block/name "image.png",
-  :block/created-at 1642834296985,
-  :block/updated-at 1642834296985}
  {:block/name "in-progress",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
  {:block/name "inter (typeface)",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
- {:block/name "jan 10th, 2022",
-  :block/created-at 1641772800000,
-  :block/updated-at 1641772800000}
- {:block/name "jan 6th, 2022",
-  :block/created-at 1641427200000,
-  :block/updated-at 1641427200000}
+ {:block/name "japan",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
  {:block/name "journals",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
  {:block/name "jul 30th, 2021",
   :block/created-at 1627603200000,
   :block/updated-at 1627603200000}
+ {:block/name "jun 19th, 2021",
+  :block/created-at 1624060800000,
+  :block/updated-at 1624060800000}
+ {:block/name "knowledge",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "knowledge garden",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
+ {:block/name "knowledge-mode.png",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "later",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
@@ -175,6 +220,9 @@
  {:block/name "markdown-mode",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
+ {:block/name "methodology",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
  {:block/name "microsoft",
   :block/created-at 1642597589765,
   :block/updated-at 1642597595337}
@@ -188,9 +236,6 @@
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
  {:block/name "mono wang",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
- {:block/name "new to logseq_",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
  {:block/name "now",
@@ -208,15 +253,6 @@
  {:block/name "org-mode 模式",
   :block/created-at 1642681256335,
   :block/updated-at 1642831981583}
- {:block/name "page/alias",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
- {:block/name "pages_assemblyscript",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
- {:block/name "pages_wasm",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
  {:block/name "pengx17",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
@@ -226,39 +262,30 @@
  {:block/name "playwright",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
- {:block/name "queries/table",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
- {:block/name "query/table",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
- {:block/name "query/table/function",
-  :block/created-at 1642834296985,
-  :block/updated-at 1642834296985}
  {:block/name "react hot module reloading",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
  {:block/name "react kitchen",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "saladict",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "sat, 2022/01",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "sat, 2022/01/22",
   :block/created-at 1642809600000,
   :block/updated-at 1642809600000}
- {:block/name "simd",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
+ {:block/name "second brain",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "solving rubik’s cube with a robot hand",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
  {:block/name "source sans",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
- {:block/name "term/page title",
-  :block/created-at 1642834296982,
-  :block/updated-at 1642834296982}
- {:block/name "term/properties",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
  {:block/name "thu, 2022",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
@@ -271,27 +298,69 @@
  {:block/name "todo",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
+ {:block/name "typeface",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "wait",
   :block/created-at 1642834296982,
   :block/updated-at 1642834296982}
  {:block/name "waiting",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
- {:block/name "wasm",
-  :block/created-at 1642834296984,
-  :block/updated-at 1642834296984}
+ {:block/name "writing",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "xuanwo",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "东亚",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "丰成秀吉",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "关于我",
   :block/created-at 1642681189999,
   :block/updated-at 1642831465640}
+ {:block/name "学习笔记",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "安德鲁 戈登",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "德川家康",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "思源字体",
   :block/created-at 1642834296984,
   :block/updated-at 1642834296984}
+ {:block/name "明治维新",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
  {:block/name "汉字测试",
   :block/created-at 1642834296985,
   :block/updated-at 1642834296985}
+ {:block/name "现代日本史:从德川时代到21世纪",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "知识",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "织田信长",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "经验总结",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
  {:block/name "编辑模式",
-  :block/created-at 1642834296982, 
-  :block/updated-at 1642834296982}]
+  :block/created-at 1642834296982,
+  :block/updated-at 1642834296982}
+ {:block/name "读书笔记",
+  :block/created-at 1642835407031,
+  :block/updated-at 1642835407031}
+ {:block/name "野中郁次郎",
+  :block/created-at 1642835407032,
+  :block/updated-at 1642835407032}
+ {:block/name "静观日本",
+  :block/created-at 1642835407031, 
+  :block/updated-at 1642835407031}]
