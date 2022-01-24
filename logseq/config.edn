@@ -150,10 +150,10 @@
  :macros {}
 
  :markdown/version 2
- :shortcuts {:ui/toggle-contents "meta+shift+c"}
+ :shortcuts {:ui/toggle-contents "meta+shift+c", :editor/follow-link "alt+enter", :auto-complete/prev ["ctrl+p" "up"], :auto-complete/next ["ctrl+n" "down"], :go/search-in-page "ctrl+f"}
  :feature/enable-journals? true
  :default-home {:page "Contents"}
  :ui/show-brackets? true
- :journal/page-title-format "E, yyyy/MM/dd"
+ :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["关于我" "Contents" "jsplay"]}
