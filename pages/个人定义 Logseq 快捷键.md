@@ -1,9 +1,0 @@
-- alt+enter   follow-link
-- ctrl+n/p     select **n**ext or **p**revious auto-complete item
-- ctrl+f    search in current page
-- 本来想定义 alt+[/] 作为 go/backward  go/forward 但好像设置了 Logseq 并不能识别
-- id:: 61ee12a1-9d7a-416c-a10c-4d4514f6dfff
--
--
-- <https://logseq.github.io/#/page/Custom%20keyboard%20shortcuts>
-- <https://github.com/logseq/logseq/blob/master/src/main/frontend/modules/shortcut/config.cljs>

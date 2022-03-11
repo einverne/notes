@@ -151,11 +151,24 @@
  :macros {}
 
  :markdown/version 2
+ ;; The default level to be opened for the linked references.
+ ;; For example, if we have some example blocks like this:
+ ;; - a [[page]] (level 1)
+ ;;   - b        (level 2)
+ ;;     - c      (level 3)
+ ;;       - d    (level 4)
+ ;;
+ ;; With the default value of level 2, `b` will be collapsed.
+ ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
+ :ref/default-open-blocks-level 2
+ :ref/linked-references-collapsed-threshold 50
+ :editor/extra-codemirror-options {:lineWrapping true}
+
  :shortcuts {:ui/toggle-contents "meta+shift+c", :editor/follow-link "alt+enter", :auto-complete/prev ["ctrl+p" "up"], :auto-complete/next ["ctrl+n" "down"], :go/search-in-page "ctrl+f"}
 ;; :feature/enable-journals? true
  ;;:default-home {:page "Contents" :sidebar ["Contents", "Journals"]}
  ;;:ui/show-brackets? true
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["关于我" "Contents" "jsplay"]
+ :favorites ["关于我" "jsplay"]
  :graph/settings {:journal? true}}

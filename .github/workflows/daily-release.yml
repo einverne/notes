@@ -1,0 +1,15 @@
+name: Daily Release
+
+on:
+  schedule:
+    - cron: '59 23 * * *'
+
+jobs:
+  Tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: fregante/daily-version-action@v1
+        id: daily-version
+        with:
+          prefix: v
